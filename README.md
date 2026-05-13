@@ -1,2 +1,2 @@
-- **[AES] (Advanced Encryption Standard)**
-- **[ECC] (Elliptic Curve Cryptography)**
+### AES, SHA256 implemented by Python
+### ECC (Elliptic Curve Cryptography), ECDSA (Elliptic Curve Digital Signature Algorithm) implemented py Go
